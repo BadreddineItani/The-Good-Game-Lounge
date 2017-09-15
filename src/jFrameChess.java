@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Badr
+ * @author Nader
  */
 
 public class jFrameChess extends javax.swing.JFrame {
