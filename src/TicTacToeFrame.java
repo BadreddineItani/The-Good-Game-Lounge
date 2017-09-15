@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Badr
+ * @author Nader
  */
 public class TicTacToeFrame extends javax.swing.JFrame{
 
