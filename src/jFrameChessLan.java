@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Badr
+ * @author Nader
  */
 
 public class jFrameChessLan extends javax.swing.JFrame {
