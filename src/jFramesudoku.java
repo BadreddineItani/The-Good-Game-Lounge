@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author Badr
+ * @author Nader
  */
 public class jFramesudoku extends javax.swing.JFrame {
 
