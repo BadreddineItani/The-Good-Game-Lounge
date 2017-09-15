@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Badr
+ * @author Nader
  */
 public class TicTacToeMain extends javax.swing.JFrame {
 
