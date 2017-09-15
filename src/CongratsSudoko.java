@@ -7,7 +7,7 @@
 
 /**
  *
- * @author Badr
+ * @author Nader
  */
 public class CongratsSudoko extends javax.swing.JFrame {
 
