@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Badr
+ * @author Nader
  */
 public class Sudoko extends JFrame {
 
